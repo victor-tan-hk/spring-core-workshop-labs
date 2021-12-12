@@ -1,9 +1,8 @@
-# spring-core-workshop-labs
-
- Enterprise Java Workshop 
- Spring Core + Spring MVC
- Jan 11 - 13 2021
+# Enterprise Java Workshop 
+# Spring Core + Spring MVC
  
- Lab code
+ Dec 13 - 22 2021
+ 
+ Lab manual + Lab code
  
  
